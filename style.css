@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(117, 211, 164);
+}
+fieldset{
+    border: 1em solid skyblue;
+    border-radius: 10px;
+    background-color: rgb(199, 142, 199);
+}
+h1{
+    color: rgb(23, 122, 161);
+    text-align: center;
+}
+button{
+    margin-left: 700px;
+
+}
